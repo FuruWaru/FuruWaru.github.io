@@ -1,1 +1,1 @@
-FuruWaru.github.io
+https://FuruWaru.github.io
